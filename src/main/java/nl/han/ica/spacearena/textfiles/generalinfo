@@ -1,0 +1,42 @@
+-- TO DO --
+- Documentatie
+* 8 EIGEN classes en 1 interface
+- Checken static variabelen!!!
+
+-- ONDERWIJS ONLINE --
+-- Aanpassingen
+- Je moet elke wijziging bijhouden in een document dat je inlevert (dit mag een tekstbestand in je code zijn). Houd bij in welke klasse je welke methode hebt gewijzigd, wat de wijziging was, en waarom de wijziging nodig was.
+- Het wijzigen van bestaande functionaliteiten in de engine is niet toegestaan.
+- Het maken van een nieuwe implementatie van bestaande functionaliteit is niet toegestaan.
+- Functionaliteiten toevoegen is toegestaan, mits het niet kan via je eigen code (zie tekst boven deze opsomming).
+- Het verbeteren van bugs in de engine is toegestaan. Geef deze bugs (en je oplossing) zo snel mogelijk door aan je docent.
+
+-- Minimumeisen
+- Het FO is verzorgd (zie ook de ICA-controlekaart) en bevat voldoende informatie om het TO en de realisatie op te baseren.
+- Het TO is verzorgd (zie ook de ICA-controlekaart), bevat voldoende informatie om de realisatie op te baseren en is in lijn met het FO.
+- Alle zelfgebouwde publieke methoden en zelf toegevoegde publieke attributen zijn voorzien van documentatie (bij voorkeur met Javadoc, zie bijv. https://nl.wikipedia.org/wiki/Javadoc)
+- Er zijn minimaal acht eigen klassen gerealiseerd die voldoende verschillend zijn en die op z'n minst enige functionaliteit bevatten (klassen met vrijwel identiek gedrag dat ook met andere attribuutwaarden te realiseren zou zijn, tellen niet mee, en ook interfaces of volledig abstracte klassen tellen niet mee).
+- Er wordt minimaal één van de interfaces uit de engine succesvol toegepast.
+- Er wordt overerving toegepast binnen de zelfgebouwde klasses (dus niet alleen overerven van objecten uit de engine).
+- Er wordt minimaal eenmaal polymorfie toegepast binnen zelfgebouwde klassen (dus: er is de mogelijkheid van polymorfie ingebouwd, en deze wordt daadwerkelijk gebruikt).
+- Klassen en methoden hebben duidelijke verantwoordelijkheden:
+- Naam komt overeen met de taak
+- Namen van attributen dekken de lading
+- Zo weinig mogelijk dubbele code
+- Geen static variabelen, tenzij daar een goede reden voor is
+- Alle studenten uit het groepje begrijpen alle code en kunnen deze tijdens het assesment toelichten
+
+-- CHECKLIST/REMEMBER --
+- Elke wijziging in een apart document (of document bij code) bijhouden
+
+===== OWN CLASSES IDEA =====
+1. Keys
+2. Obstacles (interface)
+	3. BrokenShip
+	4. Meteorite
+	5. SpaceTrash
+6. Weapons
+	7. Plasma
+	8. Shot
+	9. Rail
+10. Laser

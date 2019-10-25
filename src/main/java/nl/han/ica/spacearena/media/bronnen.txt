@@ -1,0 +1,28 @@
+Bij het gebruik van mediabestanden,
+moet je aangeven waar deze vandaan komen
+(vooral bij degene die je niet zelf hebt
+gemaakt).
+
+Enkele suggesties voor websites
+waar veel vrij te gebruiken materiaal te vinden is:
+
+http://opengameart.org
+https://commons.wikimedia.org
+http://www.clker.com
+
+Voeg aan je project een bestand toe (zoals dit) waarin
+je van alle mediabestanden aangeeft waar ze vandaan
+komen.
+
+metalJunk1.png -> zelf gemaakt
+metalJunk2.png -> zelf gemaakt
+Rock.png -> zelf gemaakt
+SpaceShipBlue.png -> zelf gemaakt
+SpaceShipRed.png -> zelf gemaakt
+poweruptes.png -> zelf gemaakt
+LaserBlue.png -> zelf gemaakt
+LaserRed.png -> zelf gemaakt
+LongLaserBlue.png -> zelf gemaakt
+LongLaserRed.png -> zelf gemaakt
+SpaceCore.png -> zelf gemaakt
+
